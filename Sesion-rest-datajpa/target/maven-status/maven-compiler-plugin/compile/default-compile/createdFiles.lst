@@ -1,0 +1,5 @@
+com\example\Sesionrestdatajpa\Repository\BookRepository.class
+com\example\Sesionrestdatajpa\Entity\Book.class
+com\example\Sesionrestdatajpa\RestController\BookController.class
+com\example\Sesionrestdatajpa\RestController\HelloController.class
+com\example\Sesionrestdatajpa\SesionRestDatajpaApplication.class

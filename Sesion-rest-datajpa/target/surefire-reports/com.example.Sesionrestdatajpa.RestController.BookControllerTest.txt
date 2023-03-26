@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.example.Sesionrestdatajpa.RestController.BookControllerTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 5.033 s <<< FAILURE! - in com.example.Sesionrestdatajpa.RestController.BookControllerTest
+findById  Time elapsed: 0.021 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <404 NOT_FOUND> but was: <200 OK>
+	at com.example.Sesionrestdatajpa.RestController.BookControllerTest.findById(BookControllerTest.java:59)
+
