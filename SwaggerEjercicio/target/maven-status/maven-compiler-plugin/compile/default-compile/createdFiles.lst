@@ -1,0 +1,4 @@
+com\pe\SwaggerEjercicio\SwaggerEjercicioApplication.class
+com\pe\SwaggerEjercicio\RestController\LaptopRestController.class
+com\pe\SwaggerEjercicio\Repository\LaptopRepository.class
+com\pe\SwaggerEjercicio\Entity\Laptop.class
